@@ -1,6 +1,6 @@
 # @feathersjs/configuration
 
-> __Important:__ The code for this module has been moved into the main Feathers repository at [feathersjs/feathers](https://github.com/feathersjs/feathers) ([package direct link](https://github.com/feathersjs/feathers/tree/master/packages/socketio)). Please open issues and pull requests there.
+> __Important:__ The code for this module has been moved into the main Feathers repository at [feathersjs/feathers](https://github.com/feathersjs/feathers) ([package direct link](https://github.com/feathersjs/feathers/tree/master/packages/configuration)). Please open issues and pull requests there.
 
 [![Build Status](https://travis-ci.org/feathersjs/configuration.png?branch=master)](https://travis-ci.org/feathersjs/configuration)
 
